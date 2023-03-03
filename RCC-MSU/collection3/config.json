@@ -1,0 +1,6 @@
+{
+    "name": "RCC-MSU/collection3",
+    "split": "test",
+    "labels": ["O", "B-PER", "I-PER", "B-ORG", "I-ORG", "B-LOC", "I-LOC"],
+    "labels_map": null
+}
